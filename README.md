@@ -1,0 +1,4 @@
+# COLLISION-DECTECTION
+This is a program to get some idea about autonomous vehicles.
+WE HAVE USED OPEN CV IN PYTHON 
+AND HARCASCADES OF DIFFENT TYPE FOR DETECTION 
